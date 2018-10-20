@@ -1,0 +1,12 @@
+name: OpioidCrisis
+title: OpioidCrisis
+username:
+account: raymondnzaba
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 364036
+bundleId: 1440025
+url: https://raymondnzaba.shinyapps.io/OpioidCrisis/
+when: 1529527039.18055
+asMultiple: FALSE
+asStatic: FALSE
